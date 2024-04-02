@@ -1,5 +1,4 @@
 name: React Project
-
 on:
   push:
     branches: [main]
